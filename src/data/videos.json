@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "title": "Мое первое крутое видео на сайте",
+    "thumbnails": [
+      { "url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=500" }
+    ],
+    "author": { "title": "Daniel" },
+    "stats": { "views": "10 тыс. просмотров" },
+    "publishedTimeText": "2 часа назад",
+    "videoLength": "3:45"
+  },
+  {
+    "id": "2",
+    "title": "Создаем базу данных своими руками",
+    "thumbnails": [
+      { "url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=500" }
+    ],
+    "author": { "title": "Daniel" },
+    "stats": { "views": "25 тыс. просмотров" },
+    "publishedTimeText": "Вчера",
+    "videoLength": "10:12"
+  }
+]
